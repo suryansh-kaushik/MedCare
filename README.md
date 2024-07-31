@@ -5,7 +5,7 @@
 Welcome to MedCare, a pioneering platform focused on enhancing maternal and fetal health through predictive analysis. MedCare enables healthcare professionals and users to access accurate predictions and proactive risk management strategies related to pregnancy.
 
 ### Webapp URL
-Check out our platform here: [MedCare](https://huggingface.co/spaces/surya-kaushik/MedCare/tree/main)
+Check out our platform here: [MedCare](https://huggingface.co/spaces/surya-kaushik/MedCare)
 
 ## Key Features
 
