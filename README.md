@@ -15,12 +15,12 @@ MedCare: [MedPredict link]([https://maternalcare-cbupxflodo4uhz8hzqqqng.streamli
 - **Dashboard:** Our Dashboard provides a user-friendly interface for monitoring and managing health data. It offers a holistic view of predictive analyses, allowing healthcare professionals and users to make informed decisions. The Dashboard is designed for ease of use and accessibility.
 
 <p align="center">
-    <img src="./graphics/about%20us.png" alt="About us" width="400" height  = "200"/> <img src="./Fetal Health.png" alt="preganancy_risk_Prediction" width="400" height  = "200"/>
+     <img src="./Fetal Health.png" alt="preganancy_risk_Prediction" width="200" height  = "200"/>
 
 </p>
 
 <p align="center">
-    <img src="./graphics/fetal_health_prediction.png" alt="fetal_health_prediction" width="400" height  = "200"/> <img src="./Maternal Health.png" alt="dashboard" width="400" height  = "200"/>
+    <img src="./Maternal Health.png" alt="dashboard" width="200" height  = "200"/>
 
 </p>
 
