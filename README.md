@@ -11,7 +11,7 @@ MedCare: [MedPredict link]([https://maternalcare-cbupxflodo4uhz8hzqqqng.streamli
 
 - **Pregnancy Risk Prediction:** Our Pregnancy Risk Prediction feature employs advanced algorithms to analyze various parameters, such as age, blood sugar levels, blood pressure, and more. By processing this data, we offer accurate predictions of potential risks during pregnancy.
 
-- **Fetal Health Prediction:**Cardiotocograms (CTGs) are a simple and cost-effective method for assessing fetal health, enabling healthcare professionals to take action to prevent child and maternal mortality.
+- **Fetal Health Prediction:** Cardiotocograms (CTGs) are a simple and cost-effective method for assessing fetal health, enabling healthcare professionals to take action to prevent child and maternal mortality.
 - **Dashboard:** Our Dashboard provides a user-friendly interface for monitoring and managing health data. It offers a holistic view of predictive analyses, allowing healthcare professionals and users to make informed decisions. The Dashboard is designed for ease of use and accessibility.
 
 <p align="center">
