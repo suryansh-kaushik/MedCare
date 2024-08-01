@@ -128,7 +128,7 @@ elif selected == 'Pregnancy Risk Prediction':
         BS = st.number_input('Blood glucose (mmol/L)', min_value=0.0, max_value=20.0, value=5.0, step=0.1)
     
     with col2:
-        bodyTemp = st.number_input('Body Temperature (°C)', min_value=35.0, max_value=42.0, value=37.0, step=0.1)
+        bodyTemp = st.number_input('Body Temperature (F)', min_value=95.0, max_value=105.0, value=98.5, step=0.1)
         heartRate = st.number_input('Heart rate (bpm)', min_value=40, max_value=200, value=75)
     
     if st.button('Predict Pregnancy Risk', key='predict_pregnancy'):
